@@ -1,0 +1,30 @@
+[
+  {
+    "claim_id": "CLM-1001",
+    "question": "Is this accidental damage claim potentially eligible?",
+    "relevant_ids": [
+      "POL-01",
+      "POL-03",
+      "POL-04"
+    ],
+    "expected_status": "potentially_eligible"
+  },
+  {
+    "claim_id": "CLM-1002",
+    "question": "What happens for cosmetic scratches?",
+    "relevant_ids": [
+      "POL-02",
+      "POL-04"
+    ],
+    "expected_status": "excluded_by_sample_rules"
+  },
+  {
+    "claim_id": "CLM-1003",
+    "question": "Can a claim with missing purchase proof be approved?",
+    "relevant_ids": [
+      "POL-03",
+      "POL-04"
+    ],
+    "expected_status": "needs_human_review"
+  }
+]
