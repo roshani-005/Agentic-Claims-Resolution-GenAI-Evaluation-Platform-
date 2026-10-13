@@ -1,0 +1,22 @@
+[
+  {
+    "id": "POL-01",
+    "title": "Eligibility",
+    "text": "Synthetic sample plan covers accidental device damage within 365 days of purchase, subject to active coverage and a maximum covered amount of 50000 INR. This is not an actual insurance policy."
+  },
+  {
+    "id": "POL-02",
+    "title": "Exclusions",
+    "text": "Intentional damage, cosmetic-only scratches and incidents occurring before coverage starts are excluded. Missing documentation requires human review, not automatic denial."
+  },
+  {
+    "id": "POL-03",
+    "title": "Evidence",
+    "text": "A claim needs proof of purchase, incident description and dated evidence. Unclear or contradictory evidence must be referred to a human reviewer."
+  },
+  {
+    "id": "POL-04",
+    "title": "Resolution",
+    "text": "Automated checks are advisory only. A human reviewer makes final decisions. The assistant must cite supporting policy IDs and must abstain when the evidence is insufficient."
+  }
+]
