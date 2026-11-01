@@ -35,5 +35,4 @@ The deterministic fallback is intentionally transparent. LLM output is optional,
 ## Evaluation
 `python -m app.evaluate` writes JSON results to stdout. Fixed cases in `data/eval_cases.json` compare prompt variants without changing the underlying questions. Reported API cost is an estimate when token usage is available, not a billing record.
 
-## JD mapping
-Python/FastAPI, data preprocessing, NLP/embeddings, prompt evaluation, debugging, API integration, monitoring, documentation, privacy and responsible AI. Computer Vision/Speech are **not claimed as implemented**; future extension: OCR intake and speech transcription.
+
