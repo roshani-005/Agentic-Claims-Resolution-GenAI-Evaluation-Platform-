@@ -1,0 +1,3 @@
+# PaddlePaddle wheels depend on OS and CUDA version; install separately.
+paddlepaddle>=2.6,<3
+paddleocr>=2.7,<3
